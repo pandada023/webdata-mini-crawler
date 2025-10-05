@@ -50,7 +50,7 @@ YES24사이트에서 키워드로 일반도서를 검색했을 때 해당페이�
 *   OS : Windows10
 *   IDE : VS Code
 *   Python : 3.10+
-
+<br>
 
 # 🛠️ 기술 스택 & 사용 라이브러리
 
@@ -62,7 +62,7 @@ YES24사이트에서 키워드로 일반도서를 검색했을 때 해당페이�
 
 *   Python, Selenium, webdriver-manager
 
-
+<br>
 
 # 📸 프로젝트 구현
 
