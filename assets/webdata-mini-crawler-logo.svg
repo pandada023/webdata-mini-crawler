@@ -28,6 +28,6 @@
   <g font-family="Inter, Segoe UI, Roboto, Arial, Helvetica, sans-serif">
     <text x="150" y="52" font-size="26" font-weight="700" fill="#111827">WebData</text>
     <text x="150" y="86" font-size="28" font-weight="800" fill="url(#grad)">Mini Crawler</text>
-    <text x="150" y="106" font-size="12" fill="#6b7280">Keyword & page-based scraper (YES24 general book results)</text>
+    <text x="150" y="106" font-size="12" fill="#6b7280">Keyword &amp; page-based scraper (YES24 general book results)</text>
   </g>
 </svg>
