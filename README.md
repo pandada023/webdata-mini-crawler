@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/webdata-mini-crawler-logo.svg" height="90" alt="WebData Mini Crawler logo">
+  <img src="assets/webdata-mini-crawler-logo.svg" height="150" alt="WebData Mini Crawler logo">
 </p>
 
 
