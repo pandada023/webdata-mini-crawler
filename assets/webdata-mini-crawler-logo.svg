@@ -1,0 +1,33 @@
+<!-- assets/webdata-mini-crawler-logo.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="120" viewBox="0 0 520 120">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 카드 배경 -->
+  <rect x="0.5" y="0.5" width="519" height="119" rx="14" fill="#fff" stroke="#e5e7eb"/>
+
+  <!-- 아이콘: 돋보기 + 작은 크롤러(거미) -->
+  <g transform="translate(22,18)">
+    <!-- 돋보기 -->
+    <circle cx="36" cy="36" r="20" fill="none" stroke="url(#grad)" stroke-width="6"/>
+    <line x1="50" y1="50" x2="72" y2="72" stroke="url(#grad)" stroke-width="6" stroke-linecap="round"/>
+
+    <!-- 크롤러(거미) -->
+    <circle cx="90" cy="40" r="7" fill="#111827"/>
+    <line x1="83" y1="36" x2="74" y2="31" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+    <line x1="83" y1="44" x2="74" y2="49" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+    <line x1="97" y1="36" x2="106" y2="31" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+    <line x1="97" y1="44" x2="106" y2="49" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- 텍스트 -->
+  <g font-family="Inter, Segoe UI, Roboto, Arial, Helvetica, sans-serif">
+    <text x="150" y="52" font-size="26" font-weight="700" fill="#111827">WebData</text>
+    <text x="150" y="86" font-size="28" font-weight="800" fill="url(#grad)">Mini Crawler</text>
+    <text x="150" y="106" font-size="12" fill="#6b7280">Keyword & page-based scraper (YES24 general book results)</text>
+  </g>
+</svg>
